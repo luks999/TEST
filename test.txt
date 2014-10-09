@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-BRANCH 1 CHANGE
-=======
 BRANCH2 CHANGE
 
 >>>>>>> BRANCH2
