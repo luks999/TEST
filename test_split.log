@@ -7,7 +7,10 @@
 29.08.2014/14:32:05	Name and Path of the TOC File: Primary.fltoc
 29.08.2014/14:32:05	Name of the Projectfile: UC4.flprj
 29.08.2014/14:32:05	Language: de
-29.08.2014/14:32:05	Splitting TOC for Book Willkommen
+29.08.2014/14:32:05	Splitting TOC for Book Willkommen234
+
+new line 1
+
 29.08.2014/14:32:05	Writing: C:\Documentation\OM\MAIN\Docu\others\help\german\UC4\Project\TOCs\Willkommen.fltoc
 29.08.2014/14:32:05	Writing: C:\Documentation\OM\MAIN\Docu\others\help\german\UC4\Project\TOCs\PDF_Willkommen.fltoc
 29.08.2014/14:32:05	Splitting TOC for Book Benutzerhandbuch
@@ -20,11 +23,11 @@
 29.08.2014/14:32:05	Writing: C:\Documentation\OM\MAIN\Docu\others\help\german\UC4\Project\TOCs\Administratorhandbuch.fltoc
 29.08.2014/14:32:05	Writing: C:\Documentation\OM\MAIN\Docu\others\help\german\UC4\Project\TOCs\PDF_Administratorhandbuch.fltoc
 29.08.2014/14:32:05	Splitting TOC for Book Internes
-29.08.2014/14:32:05	Writing: C:\Documentation\OM\MAIN\Docu\others\help\german\UC4\Project\TOCs\Internes.fltoc
+29.08.2014/14:32:05	Writing: C:\Documentation\OM\MAIN\Docu\others\help\german\UC4\Project\TOCs\.fltoc
 29.08.2014/14:32:05	Writing: C:\Documentation\OM\MAIN\Docu\others\help\german\UC4\Project\TOCs\PDF_Internes.fltoc
 29.08.2014/14:32:05	Splitting TOC for Book Best Practices
 29.08.2014/14:32:05	Writing: C:\Documentation\OM\MAIN\Docu\others\help\german\UC4\Project\TOCs\BestPractices.fltoc
-29.08.2014/14:32:05	Writing: C:\Documentation\OM\MAIN\Docu\others\help\german\UC4\Project\TOCs\PDF_BestPractices.fltoc
+29.08.2014/14:32:05	Writing: C:\Documentation\OM\MAIN\Docu\others\help\german\UC4\Project\TOCs\.fltoc
 29.08.2014/14:32:05	Splitting TOC for Book Beispielsammlung
 29.08.2014/14:32:05	Writing: C:\Documentation\OM\MAIN\Docu\others\help\german\UC4\Project\TOCs\Beispielsammlung.fltoc
 29.08.2014/14:32:05	Writing: C:\Documentation\OM\MAIN\Docu\others\help\german\UC4\Project\TOCs\PDF_Beispielsammlung.fltoc
@@ -43,3 +46,5 @@
 29.08.2014/14:32:05	Splitting TOC for Book Process Analytics
 29.08.2014/14:32:05	Writing: C:\Documentation\OM\MAIN\Docu\others\help\german\UC4\Project\TOCs\ProcessAnalytics.fltoc
 29.08.2014/14:32:06	Writing: C:\Documentation\OM\MAIN\Docu\others\help\german\UC4\Project\TOCs\PDF_ProcessAnalytics.fltoc
+
+new line 2
