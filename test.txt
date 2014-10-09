@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 
 BRANCH 1 CHANGE
+=======
+BRANCH2 CHANGE
+
+>>>>>>> BRANCH2
 test12345
 sdsjdhjshd
 test
