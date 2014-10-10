@@ -13,13 +13,11 @@
 03.10.2014/09:39:24	Path of the HtmlHelp folder:              C:\Documentation\OM\MAIN\Docu\others\help\german\UC4\HtmlHelp
 03.10.2014/09:39:24	Start to build the HHP files...
 03.10.2014/09:39:24	Processing: ucablk.htm
+ADD
 BRANCH3 change
 03.10.2014/09:39:26	Processing: ucacwl.htm
 03.10.2014/09:39:26	Processing: ucacdx.htm
-03.10.2014/09:39:26	Processing: ucacae.htm
-03.10.2014/09:39:26	Processing: uczabk.htm
-03.10.2014/09:39:26	Processing: ucaasy.htm
-03.10.2014/09:39:26	Processing: ucaaaw.htm
+delete
 03.10.2014/09:39:26	Processing: ucacbu.htm
 03.10.2014/09:39:26	Processing: ucacqu.htm
 03.10.2014/09:39:26	Processing: ucabos.htm
@@ -129,7 +127,7 @@ BRANCH3 change
 03.10.2014/09:39:30	Processing: ucabpn.htm
 03.10.2014/09:39:30	Processing: uczaac.htm
 03.10.2014/09:39:30	Processing: ucabes.htm
-03.10.2014/09:39:30	Processing: ucaadc.htm
+03.10.2014/09:39:30	CHANGE
 03.10.2014/09:39:30	Processing: ucacea.htm
 03.10.2014/09:39:30	Processing: ucacta.htm
 03.10.2014/09:39:30	The link ucacti.htm in this document has no text!
