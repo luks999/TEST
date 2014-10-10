@@ -5,10 +5,4 @@ sdsjdhjshd
 test
 test123
 
-<<<<<<< HEAD
-BRANCH1 TEST
-=======
-BRANCH1
-
-TEST TEST
->>>>>>> origin/BRANCH1
+BRANCH 3 add
